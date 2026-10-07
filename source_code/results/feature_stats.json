@@ -1,0 +1,20 @@
+{
+ "n_candidates": 1346,
+ "n_moth": 952,
+ "n_ev": {
+  "median_moth": 22.0,
+  "median_other": 17.0
+ },
+ "speed": {
+  "median_moth": 127.02199440094918,
+  "median_other": 53.620412854504835
+ },
+ "fit_r2": {
+  "median_moth": 0.1488019265569383,
+  "median_other": 0.0665590608876705
+ },
+ "dsi": {
+  "median_moth": 0.17963875881166827,
+  "median_other": 0.10882392826915815
+ }
+}

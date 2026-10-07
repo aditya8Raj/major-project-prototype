@@ -1,0 +1,9 @@
+Denoising filter tuning (training-set seeds 100-105 only; test seeds 200-205 untouched).
+Columns: BAF window (us), min supporting neighbours k, then F1 on one held-out TRAINING scene at 0.01 lux and 0.003 lux.
+3000 1  0.22  (too few positives at 0.003 lux: 4 of 949 candidates matched a moth)   <- first version
+2000 2  0.98  0.95
+1500 2  0.98  0.95
+1000 2  0.99  0.96   <- chosen
+1000 3  0.97  0.80
+600  2  0.97  0.93
+2000 3  0.97  0.99
